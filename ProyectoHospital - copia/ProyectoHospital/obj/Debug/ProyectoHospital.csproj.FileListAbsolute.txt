@@ -1,0 +1,73 @@
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\ProyectoHospital.exe.config
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\ProyectoHospital.exe
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\ProyectoHospital.pdb
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\Npgsql.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Buffers.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Memory.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Text.Json.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.ValueTuple.dll
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\Npgsql.pdb
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\Npgsql.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Buffers.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Memory.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Text.Json.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\bin\Debug\System.ValueTuple.xml
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.csprojAssemblyReference.cache
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.Form1.resources
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.Properties.Resources.resources
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.csproj.GenerateResource.cache
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.csproj.CopyComplete
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.exe
+C:\Users\ChepeOlan\Desktop\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.pdb
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\ProyectoHospital.exe.config
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\ProyectoHospital.exe
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\ProyectoHospital.pdb
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\Npgsql.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Buffers.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Memory.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Text.Json.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.ValueTuple.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\Npgsql.pdb
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\Npgsql.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Buffers.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Memory.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Text.Json.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\System.ValueTuple.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.csprojAssemblyReference.cache
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.Form1.resources
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.Properties.Resources.resources
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.csproj.GenerateResource.cache
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.csproj.CopyComplete
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.exe
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.pdb
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.Form2.resources
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.Form3.resources
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.Form4.resources
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\CircularProgressBar.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\WinFormAnimation.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\CircularProgressBar.xml
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.csproj.CoreCompileInputs.cache
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.FMWelcome.resources
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\obj\Debug\ProyectoHospital.Login.resources
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\ChepeOlan\Desktop\Proyectos de BD\ProyectoHospital\ProyectoHospital\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
